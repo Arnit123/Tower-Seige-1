@@ -1,5 +1,6 @@
 /*mam dont know why its showing error plz check i have not even started properly yet
 and its showing error...*/
+var world
 const Engine = Matter.Engine;
 const World= Matter.World;
 const Bodies = Matter.Bodies;
